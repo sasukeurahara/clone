@@ -72,7 +72,7 @@ if uploaded_file is not None:
 
 from tensorflow.keras.models import load_model
 
-model = load_model('./Model.h5')
+model = load_model('lifescanner-main/lifescanner-main/multipage.py/pages/Model.h5')
 
 
 
