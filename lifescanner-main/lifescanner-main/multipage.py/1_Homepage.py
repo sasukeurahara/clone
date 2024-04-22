@@ -35,6 +35,12 @@ var = """
       }
     </style>
  """
+
+st.title("Sreedweep Sharma")
+st.title("Bhanu Prasad")
+st.title("Soumya Dwivedi")
+
+
 st.markdown(var,unsafe_allow_html=True)
 
 
