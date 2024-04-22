@@ -2,4 +2,4 @@ opencv-python
 opencv
 matplotlib
 tensorflow
-cv2
+
