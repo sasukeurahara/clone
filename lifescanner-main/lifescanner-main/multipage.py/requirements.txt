@@ -1,5 +1,4 @@
 opencv-python
 matplotlib
 tensorflow
-StringIO
 cv2
