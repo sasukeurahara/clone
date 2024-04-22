@@ -35,7 +35,7 @@ var = """
  """
 st.markdown(var,unsafe_allow_html=True)
 
-with open('pages/style.css') as f:
+with open('lifescanner-main/lifescanner-main/multipage.py/pages/style.css') as f:
     st.markdown(f'<style>{f.read()}</style>',unsafe_allow_html=True)
    
 
