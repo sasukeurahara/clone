@@ -37,11 +37,14 @@ var = """
  """
 
 st.title("Sreedweep Sharma")
-st.title("Bhanu Prasad")
-st.title("Soumya Dwivedi")
+st.title("23311A66Q4")
+st.title("Internship")
+# st.title("Bhanu Prasad")
+# st.title("Soumya Dwivedi")
 
 
 st.markdown(var,unsafe_allow_html=True)
+
 
 
 
